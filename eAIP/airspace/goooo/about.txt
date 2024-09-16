@@ -1,6 +1,6 @@
 ===== GOOOO Dakar Oceanic Flight Information Region =====
 
-  * The Dakar Oceanic FIR covers an oceanic segment of the South Atlantic. It is neighbored by [[GOOO|Dakar]] FIR in the East, Sal Oceanic to the North and Altantico to the South.
+  * The Dakar Oceanic FIR covers an oceanic segment of the South Atlantic. It is neighbored by [[airspace:gooo:home|Dakar]] FIR in the East, Sal Oceanic to the North and Altantico to the South.
 
 ==== Airport Coverage ====
 
