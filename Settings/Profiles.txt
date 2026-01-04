@@ -1,0 +1,11 @@
+PROFILE
+PROFILE:GOOC_FSS:1500:7
+ATIS2:$radioname, covering Dakar Oceanic
+ATIS3:Part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE
+PROFILE:DGAO_CTR:600:7
+ATIS2:$radioname, covering Accra Oceanic
+ATIS3:Part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+END

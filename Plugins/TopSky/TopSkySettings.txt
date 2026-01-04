@@ -27,12 +27,12 @@ RwyAppLines_MarkerSpacing=5
 Color_Rwy_App_Line_Inuse=110,110,110
 
 /TAG SETUP
-Label_All_CRC=1
-Label_All_NATYP=1
-Label_All_WTC=1
-Label_All_GS=1
-Label_All_N=1
-Track_PSR_Filter_GS=50
+//Label_All_CRC=1
+//Label_All_NATYP=1
+//Label_All_WTC=1
+//Label_All_GS=1
+//Label_All_N=1
+//Track_PSR_Filter_GS=50
 
 
 /TAG COLORS
@@ -97,10 +97,10 @@ Areas_Altitude_Filtering=1
 
 
 /MCTD & SAP PERFORMANCE
-FPCP_PredictionTime=3
-FPCP_MinState=1
-FPCP_4D=1
-FPCP_4D_PathBuffer=1000
+//FPCP_PredictionTime=3
+//FPCP_MinState=1
+//FPCP_4D=1
+//FPCP_4D_PathBuffer=1000
 
 /SAP
 SAP=1
